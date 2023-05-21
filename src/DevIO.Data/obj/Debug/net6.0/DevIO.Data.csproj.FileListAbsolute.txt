@@ -1,0 +1,17 @@
+D:\Labs\API\API\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+D:\Labs\API\API\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.runtimeconfig.json
+D:\Labs\API\API\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+D:\Labs\API\API\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+D:\Labs\API\API\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+D:\Labs\API\API\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.genruntimeconfig.cache
+D:\Labs\API\API\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll

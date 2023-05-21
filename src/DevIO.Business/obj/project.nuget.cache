@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gGW34Vu7H6hABBVJ7sDH2Zx4CNyjNKXUvGDYw40S/sfyd4aXGLx8Pm6rtF6KvIYl2KqSEGYDQuii7Ps0OORE0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\SoftwareTech.IO.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
+  ],
+  "logs": []
+}
