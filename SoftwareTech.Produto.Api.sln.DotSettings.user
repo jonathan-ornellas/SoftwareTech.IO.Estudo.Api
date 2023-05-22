@@ -3,4 +3,5 @@
   &lt;Assembly Path="C:\Users\jonat\.nuget\packages\microsoft.entityframeworkcore.sqlserver\6.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Users\jonat\.nuget\packages\fluentvalidation\10.3.6\lib\net6.0\FluentValidation.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.16\Microsoft.AspNetCore.Authentication.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.16\Microsoft.AspNetCore.Mvc.ApiExplorer.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

@@ -1,6 +1,7 @@
 using DevIO.Api.Configuration;
 using DevIO.Data.Context;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -25,22 +26,23 @@ builder.Services.AddDbContext<MeuDbContext>(options =>
 builder.Services.AddIdentityConfiguration(builder.Configuration);
 
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+
 builder.Services.AddAutoMapper(typeof(Program));
+
 builder.Services.WebApiConfig();
+
+builder.Services.AddSwaggerConfig();
+
 builder.Services.ResolveDependecies();
 
 var app = builder.Build();
 
 app.UseAuthentication();
 app.UseMvcConfiguration(app.Environment);
+var apiVersionDescriptionProvider = app.Services.GetRequiredService<IApiVersionDescriptionProvider>();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+
+app.UseSwaggerConfig(apiVersionDescriptionProvider);
 
 app.UseAuthorization();
 app.MapControllers();

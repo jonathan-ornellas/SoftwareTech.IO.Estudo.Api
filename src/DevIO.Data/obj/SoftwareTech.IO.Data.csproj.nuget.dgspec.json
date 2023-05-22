@@ -76,7 +76,7 @@
         "projectName": "SoftwareTech.IO.Data",
         "projectPath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Data\\SoftwareTech.IO.Data.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Data\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Shared\\NuGetPackages"

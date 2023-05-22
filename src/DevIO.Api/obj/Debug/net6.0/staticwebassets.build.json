@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vMzzUDL/d2AhbFY+Fczxa88e1cRITE6F+GW0l9bZ1is=",
+  "Hash": "IvP19+xeXC8fhGNHTD71TuVqv/gCDMPsXQcupqHEjbs=",
   "Source": "SoftwareTech.IO.Api",
   "BasePath": "_content/SoftwareTech.IO.Api",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SoftwareTech.IO.Api\\wwwroot",
       "Source": "SoftwareTech.IO.Api",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\jonat\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/.editorconfig",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\.editorconfig"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/.gitignore",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\.gitignore"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/angular.json",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\angular.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/e2e/protractor.conf.js",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/e2e/src/app.e2e-spec.ts",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/e2e/src/app.po.ts",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/e2e/tsconfig.e2e.json",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/package.json",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\package.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/package-lock.json",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\package-lock.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/README.md",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\README.md"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/app.component.html",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app.component.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/app.component.ts",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/app.module.ts",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/app-routing.module.ts",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/base/baseService.ts",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/base/menu/menu.component.html",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/base/menu/menu.component.ts",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/cadastro/cadastro.component.html",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/cadastro/cadastro.component.ts",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/lista/lista.component.html",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/lista/lista.component.ts",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/models/Fornecedor.ts",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/models/Produto.ts",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/produtos/services/produtoService.ts",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/login/login.component.html",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/login/login.component.ts",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/menu/menu.user.component.html",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/menu/menu.user.component.ts",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/user.ts",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/app/user/userService.ts",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\506ff49a-014e-4f3d-a26b-8bf12d40365c_1667916487750.jpg",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\506ff49a-014e-4f3d-a26b-8bf12d40365c_1667916487750.jpg",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/assets/506ff49a-014e-4f3d-a26b-8bf12d40365c_1667916487750.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\assets\\506ff49a-014e-4f3d-a26b-8bf12d40365c_1667916487750.jpg"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\c623a6a9-6119-4a52-a9ee-7dbb372f68b8_1667916487750.jpg",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\c623a6a9-6119-4a52-a9ee-7dbb372f68b8_1667916487750.jpg",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/assets/c623a6a9-6119-4a52-a9ee-7dbb372f68b8_1667916487750.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\assets\\c623a6a9-6119-4a52-a9ee-7dbb372f68b8_1667916487750.jpg"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\fb840f9b-d6fd-4336-ae78-8ab1f05f76ce_1667916487750.jpg",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\fb840f9b-d6fd-4336-ae78-8ab1f05f76ce_1667916487750.jpg",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/assets/fb840f9b-d6fd-4336-ae78-8ab1f05f76ce_1667916487750.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\assets\\fb840f9b-d6fd-4336-ae78-8ab1f05f76ce_1667916487750.jpg"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/browserslist",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\browserslist"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/environments/environment.prod.ts",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/environments/environment.ts",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/favicon.ico",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/index.html",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\index.html"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\karma.conf.js",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\karma.conf.js",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/karma.conf.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\karma.conf.js"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/main.ts",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\main.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/polyfills.ts",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\polyfills.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/styles.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/test.ts",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\test.ts"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/tsconfig.app.json",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/tsconfig.spec.json",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tslint.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tslint.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/src/tslint.json",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\src\\tslint.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/tsconfig.json",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\tsconfig.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tslint.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tslint.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/demo-webapi/tslint.json",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\app\\demo-webapi\\tslint.json"
     },
     {
-      "Identity": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\package-lock.json",
+      "Identity": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\package-lock.json",
       "SourceId": "SoftwareTech.IO.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\",
       "BasePath": "_content/SoftwareTech.IO.Api",
       "RelativePath": "app/package-lock.json",
       "AssetKind": "All",

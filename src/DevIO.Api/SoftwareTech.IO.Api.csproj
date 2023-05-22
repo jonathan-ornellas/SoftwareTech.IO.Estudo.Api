@@ -34,7 +34,6 @@
 
   <ItemGroup>
     <Folder Include="V1\Controllers\" />
-    <Folder Include="Configuration\" />
     <Folder Include="Data\" />
     <Folder Include="V2\Controllers\" />
   </ItemGroup>
