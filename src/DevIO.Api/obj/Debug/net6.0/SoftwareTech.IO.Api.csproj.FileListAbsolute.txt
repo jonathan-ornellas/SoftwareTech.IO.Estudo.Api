@@ -206,3 +206,6 @@ C:\Users\jonat\Source\Repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\Dev
 C:\Users\jonat\Source\Repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Api\obj\Debug\net6.0\SoftwareTech.IO.Api.pdb
 C:\Users\jonat\Source\Repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Api\obj\Debug\net6.0\SoftwareTech.IO.Api.genruntimeconfig.cache
 C:\Users\jonat\Source\Repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Api\obj\Debug\net6.0\ref\SoftwareTech.IO.Api.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.AspNetCore.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Api\bin\Debug\net6.0\Elmah.Io.Client.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Api\bin\Debug\net6.0\Newtonsoft.Json.dll

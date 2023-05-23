@@ -3,6 +3,8 @@ using DevIO.Data.Context;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Microsoft.EntityFrameworkCore;
+using SoftwareTech.IO.Api.Configuration;
+using SoftwareTech.IO.Api.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -33,17 +35,20 @@ builder.Services.WebApiConfig();
 
 builder.Services.AddSwaggerConfig();
 
+builder.Services.AddLoggingConfig(builder.Configuration);
+
 builder.Services.ResolveDependecies();
 
 var app = builder.Build();
 
 app.UseAuthentication();
+app.UseMiddleware<ExceptionMiddleware>();
 app.UseMvcConfiguration(app.Environment);
 var apiVersionDescriptionProvider = app.Services.GetRequiredService<IApiVersionDescriptionProvider>();
 
 
 app.UseSwaggerConfig(apiVersionDescriptionProvider);
-
+app.UseLoggingConfiguration();
 app.UseAuthorization();
 app.MapControllers();
 app.Run();

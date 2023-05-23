@@ -5,6 +5,7 @@ using DevIO.Business.Services;
 using DevIO.Data.Context;
 using DevIO.Data.Repository;
 using Microsoft.Extensions.Options;
+using SoftwareTech.IO.Api.Configuration;
 using Swashbuckle.AspNetCore.SwaggerGen;
 
 namespace DevIO.Api.Configuration;

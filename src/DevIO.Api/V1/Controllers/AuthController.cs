@@ -21,10 +21,12 @@ public class AuthController : MainController
     private readonly SignInManager<IdentityUser> _signInManager;
     private readonly UserManager<IdentityUser> _userManager;
     private readonly AppSetting _appSetting;
-    public AuthController(INotificador notificador, SignInManager<IdentityUser> signInManager, UserManager<IdentityUser> userManager, IOptions<AppSetting> appSetting, IUser user) : base(notificador, user)
+    private readonly ILogger _logger;
+    public AuthController(INotificador notificador, SignInManager<IdentityUser> signInManager, UserManager<IdentityUser> userManager, IOptions<AppSetting> appSetting, IUser user, ILogger<AuthController> logger) : base(notificador, user)
     {
         _signInManager = signInManager;
         _userManager = userManager;
+        _logger = logger;
         _appSetting = appSetting.Value;
     }
 
@@ -67,6 +69,7 @@ public class AuthController : MainController
 
         if (result.Succeeded)
         {
+            _logger.LogInformation("Usuario " + loginUser.Email + " logado com sucesso!");
             return CustomResponse(await GerarJwt(loginUser.Email));
         }
 
