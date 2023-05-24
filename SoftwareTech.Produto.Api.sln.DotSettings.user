@@ -5,4 +5,5 @@
   &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.16\Microsoft.AspNetCore.Authentication.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.16\Microsoft.AspNetCore.Mvc.ApiExplorer.dll" /&gt;&#xD;
   &lt;Assembly Path="C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\6.0.16\Microsoft.AspNetCore.Http.Abstractions.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Users\jonat\.nuget\packages\elmah.io.aspnetcore.healthchecks\4.4.50\lib\netstandard2.0\Elmah.Io.AspNetCore.HealthChecks.dll" /&gt;&#xD;
 &lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

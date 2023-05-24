@@ -11,7 +11,7 @@
         "projectName": "SoftwareTech.IO.Business",
         "projectPath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\SoftwareTech.IO.Business.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Shared\\NuGetPackages"

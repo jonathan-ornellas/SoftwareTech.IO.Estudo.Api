@@ -11,7 +11,7 @@
         "projectName": "SoftwareTech.IO.Business",
         "projectPath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\SoftwareTech.IO.Business.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\Source\\Repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Shared\\NuGetPackages"
@@ -115,27 +115,31 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.5, )"
+              "version": "[6.0.3, )"
             }
           },
           "imports": [

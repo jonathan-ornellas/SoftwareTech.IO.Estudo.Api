@@ -1,5 +1,7 @@
 using DevIO.Api.Configuration;
 using DevIO.Data.Context;
+//using HealthChecks.UI.Client;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Microsoft.EntityFrameworkCore;
@@ -35,6 +37,7 @@ builder.Services.WebApiConfig();
 
 builder.Services.AddSwaggerConfig();
 
+
 builder.Services.AddLoggingConfig(builder.Configuration);
 
 builder.Services.ResolveDependecies();
@@ -50,5 +53,6 @@ var apiVersionDescriptionProvider = app.Services.GetRequiredService<IApiVersionD
 app.UseSwaggerConfig(apiVersionDescriptionProvider);
 app.UseLoggingConfiguration();
 app.UseAuthorization();
+
 app.MapControllers();
 app.Run();
