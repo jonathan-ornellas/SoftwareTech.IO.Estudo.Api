@@ -1,0 +1,12 @@
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\bin\Release\net6.0\SoftwareTech.IO.Business.deps.json
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\bin\Release\net6.0\SoftwareTech.IO.Business.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\bin\Release\net6.0\SoftwareTech.IO.Business.pdb
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.AssemblyInfo.cs
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\refint\SoftwareTech.IO.Business.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\SoftwareTech.IO.Business.pdb
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Business\obj\Release\net6.0\ref\SoftwareTech.IO.Business.dll

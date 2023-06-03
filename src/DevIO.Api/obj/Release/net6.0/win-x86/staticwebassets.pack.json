@@ -1,0 +1,217 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.editorconfig",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\.gitignore",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\README.md",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\angular.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\angular.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\protractor.conf.js",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\protractor.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\src\\app.e2e-spec.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\src\\app.po.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\src\\app.po.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\e2e\\tsconfig.e2e.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\e2e\\tsconfig.e2e.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package-lock.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\package.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app-routing.module.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app-routing.module.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\app.module.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\app.module.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\baseService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\baseService.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\base\\menu\\menu.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\cadastro\\cadastro.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\lista\\lista.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\models\\Fornecedor.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\models\\Produto.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\produtos\\services\\produtoService.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\login\\login.component.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\login\\login.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\menu\\menu.user.component.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\user.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\user.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\app\\user\\userService.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\app\\user\\userService.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\506ff49a-014e-4f3d-a26b-8bf12d40365c_1667916487750.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\506ff49a-014e-4f3d-a26b-8bf12d40365c_1667916487750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\c623a6a9-6119-4a52-a9ee-7dbb372f68b8_1667916487750.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\c623a6a9-6119-4a52-a9ee-7dbb372f68b8_1667916487750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\assets\\fb840f9b-d6fd-4336-ae78-8ab1f05f76ce_1667916487750.jpg",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\assets\\fb840f9b-d6fd-4336-ae78-8ab1f05f76ce_1667916487750.jpg"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\browserslist",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.prod.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\environments\\environment.prod.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\environments\\environment.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\environments\\environment.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\favicon.ico",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\index.html",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\karma.conf.js",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\karma.conf.js"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\main.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\main.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\polyfills.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\polyfills.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\styles.css",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\test.ts",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\test.ts"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.app.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\tsconfig.app.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tsconfig.spec.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\tsconfig.spec.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\src\\tslint.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\src\\tslint.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tsconfig.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tsconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\demo-webapi\\tslint.json",
+      "PackagePath": "staticwebassets\\app\\demo-webapi\\tslint.json"
+    },
+    {
+      "Id": "C:\\Users\\jonat\\source\\repos\\jonathan-ornellas\\SoftwareTech.IO.Estudo.Api\\src\\DevIO.Api\\wwwroot\\app\\package-lock.json",
+      "PackagePath": "staticwebassets\\app\\package-lock.json"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.SoftwareTech.IO.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.build.SoftwareTech.IO.Api.props",
+      "PackagePath": "build\\SoftwareTech.IO.Api.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.SoftwareTech.IO.Api.props",
+      "PackagePath": "buildMultiTargeting\\SoftwareTech.IO.Api.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.SoftwareTech.IO.Api.props",
+      "PackagePath": "buildTransitive\\SoftwareTech.IO.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

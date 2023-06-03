@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+    <History>True|2023-05-31T01:25:53.6410859Z;True|2023-05-30T22:25:35.5551166-03:00;True|2023-05-30T22:24:21.0796854-03:00;True|2023-05-30T22:22:32.4300354-03:00;True|2023-05-30T22:16:09.7361504-03:00;True|2023-05-30T22:14:24.3173793-03:00;True|2023-05-30T22:09:12.7544681-03:00;True|2023-05-30T21:47:09.7339221-03:00;True|2023-05-30T21:37:59.7634958-03:00;False|2023-05-30T21:37:36.2035077-03:00;True|2023-05-30T21:36:30.8792332-03:00;True|2023-05-30T21:29:25.9282386-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=ZEUS\SQLEXPRESS%3bInitial Catalog=MinhaApiCore%3bIntegrated Security=True%3bConnect Timeout=30%3bEncrypt=False%3bTrust Server Certificate=False%3bApplication Intent=ReadWrite%3bMulti Subnet Failover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\bin\Release\net6.0\SoftwareTech.IO.Data.deps.json
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\bin\Release\net6.0\SoftwareTech.IO.Data.runtimeconfig.json
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\bin\Release\net6.0\SoftwareTech.IO.Data.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\bin\Release\net6.0\SoftwareTech.IO.Data.pdb
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\bin\Release\net6.0\SoftwareTech.IO.Business.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\bin\Release\net6.0\SoftwareTech.IO.Business.pdb
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.AssemblyInfo.cs
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.csproj.CopyComplete
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\refint\SoftwareTech.IO.Data.dll
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.pdb
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\SoftwareTech.IO.Data.genruntimeconfig.cache
+C:\Users\jonat\source\repos\jonathan-ornellas\SoftwareTech.IO.Estudo.Api\src\DevIO.Data\obj\Release\net6.0\ref\SoftwareTech.IO.Data.dll
